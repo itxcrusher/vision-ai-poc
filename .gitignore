@@ -1,0 +1,19 @@
+# Model weights (download automatically on first run)
+*.pt
+*.onnx
+*.engine
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Ultralytics runs output
+runs/
+
+# OS
+.DS_Store
+Thumbs.db
