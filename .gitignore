@@ -17,3 +17,7 @@ runs/
 # OS
 .DS_Store
 Thumbs.db
+
+# Client-derived detector (mirrors the private the paired device client detector, carries
+# client-specific integration details). This repo is PUBLIC: never commit it here.
+detector-standalone/
